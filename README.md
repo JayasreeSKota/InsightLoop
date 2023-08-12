@@ -1,5 +1,8 @@
 # InsightLoop
 
+![ alt text ](https://img.shields.io/badge/powerapps-blueviolet?logo=powerapps)
+![ alt text ](https://img.shields.io/badge/microsoftsharepoint-turquoise?logo=microsoftsharepoint)
+
 Welcome to InsightLoop! 📊📋
 
 InsightLoop is a powerful PowerApps project designed to gather valuable employee feedback. 
